@@ -18,7 +18,7 @@ Usage:
 	
      1. Download the KeyLogger File.
 
-     2. Execute the KeyLogger.exe File.
+     2. Extract the .7z file and Execute the KeyLogger.exe File.
 
      3. Input your Mail and add the Time then click add time button.
 
